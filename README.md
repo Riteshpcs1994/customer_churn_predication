@@ -1,2 +1,4 @@
 # customer_churn_predication
-Churn prediction is the process of using data analysis and predictive modeling to identify customers who are likely to discontinue using a product or service, allowing businesses to take proactive measures to retain them.
+Churn prediction is a machine learning application that helps businesses predict which customers are likely to leave or stop using their services. The goal is to identify customers who are at high risk of churn and take proactive measures to retain them before they leave. This can help companies improve customer retention, reduce customer acquisition costs, and increase revenue.
+
+To predict churn, a machine learning model is trained on historical customer data, such as transaction history, demographics, usage patterns, customer complaints, etc. The model is trained to recognize patterns and correlations between different variables that are indicative of churn risk. The model can then use these patterns to make predictions about which customers are likely to churn in the future.
